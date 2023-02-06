@@ -1,5 +1,6 @@
 # crwn-clothing-v2-lesson-38-type-script-pratice
-this is fork from https://github.com/ZhangMYihua/crwn-clothing-v2/tree/lesson-38
+this is fork from https://github.com/ZhangMYihua/crwn-clothing-v2/tree/lesson-38  
+要從 39 lesson 開始不然會少 payment 功能 https://github.com/ZhangMYihua/crwn-clothing-v2/blob/lesson-39/src/components/button/button.component.jsx
 
 這是篇練習 git  
 - push git: feat/redux-type-script
