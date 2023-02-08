@@ -9,3 +9,4 @@ this is fork from https://github.com/ZhangMYihua/crwn-clothing-v2/tree/lesson-38
 - push git: redux js to typescript (redux-store and middleware.js to typescirpt)
 - push git: refactor/React-saga-to-typescript
 - push git: refactor/component-style-component-toTypescript
+- push git: refactor/anotherway-type-script
